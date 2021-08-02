@@ -1,3 +1,7 @@
 const CONFIG w {
-Introtitle: "Hiền à !"
-Introoesc: 
+Introtitle: "Hiền à!"
+Introoesc: "Trái đất vốn lạ thường
+mà sao em cứ đi nhầm đường
+Lạc vào tim anh lẻ loi
+đằng sau chữ yêu đấy là thương",
+btnIntro: "hihi"
